@@ -1,0 +1,2 @@
+# SmokeU-Net-Smoke-Column-Segmentation-from-Satellite-Imagery-using-Deep-U-Net-Architecture
+A U-Net deep learning model for automated smoke plume segmentation in satellite imagery. The model processes multi-spectral satellite data to generate precise smoke column masks, improving upon manual detection methods. Results demonstrate high accuracy in smoke plume detection with 99.04% validation accuracy and 0.91 Dice coefficient.
